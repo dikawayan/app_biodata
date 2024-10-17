@@ -72,7 +72,7 @@ class DetailsState extends State<Details>{
       appBar: AppBar(
         title: Text('Details Siswa'),
         centerTitle: true,
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.pink,
         actions: [
           IconButton(
             onPressed: () => confirmDelete(context),

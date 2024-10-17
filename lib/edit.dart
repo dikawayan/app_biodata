@@ -77,7 +77,7 @@ class EditState extends State<Edit>{
       appBar: AppBar(
         title: Text("Edit Siswa"),
         centerTitle: true,
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.pink,
       ),
       bottomNavigationBar:  BottomAppBar(
         child: ElevatedButton(

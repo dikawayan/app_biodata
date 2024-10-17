@@ -44,7 +44,7 @@ class HomeState extends State<Home>{
       appBar: AppBar(
         title: Text("List Data Siswa"),
         centerTitle: true,
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.purple,
       ),
       body: Center(
         child: FutureBuilder<List<SiswaModel>>(
